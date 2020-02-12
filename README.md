@@ -1,5 +1,6 @@
-# Analysis-and-Prediction-Based-on-English-Premier-League
+# Prediction-and-Analysis-Based-on-English-Premier-League
 This is Prediction and Analysis Based on English Premier League. We analyzed the player and predicted results based on data of 4 seasons.
+See more details in the report.
 
 For model comparing
 ```
